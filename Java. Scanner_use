@@ -1,0 +1,13 @@
+import java. util. Scanner;
+class main
+{
+  public static void main (String [] arge) 
+   {
+    Scanner sc = new Scanner (System.in) ;
+    System. out. println("enter name & roll no ") ;
+    String name= sc. nextLine() ;
+    int n = sc. nextInt() ;
+    System. out. println("name ="+name) ;
+    System. out. println("Roll no ="+n) ;
+    }
+}
